@@ -1,0 +1,17 @@
+../ST7735/Src/st7735.c:288:13:send_byte	16	static
+../ST7735/Src/st7735.c:282:13:send_command	8	static
+../ST7735/Src/st7735.c:294:13:send_data	8	static
+../ST7735/Src/st7735.c:298:13:send_pixelVal	16	static
+../ST7735/Src/st7735.c:152:6:ST7735_TFT_setXBoundary	16	static
+../ST7735/Src/st7735.c:161:6:ST7735_TFT_setYBoundary	16	static
+../ST7735/Src/st7735.c:170:6:ST7735_TFT_setWindow	16	static
+../ST7735/Src/st7735.c:175:6:ST7735_TFT_setColorMod	8	static
+../ST7735/Src/st7735.c:139:6:ST7735_TFT_init	16	static
+../ST7735/Src/st7735.c:180:6:ST7735_TFT_setOrientation	8	static
+../ST7735/Src/st7735.c:212:6:ST7735_TFT_Paint	40	static
+../ST7735/Src/st7735.c:223:6:ST7735_TFT_Sleep	8	static
+../ST7735/Src/st7735.c:227:6:ST7735_TFT_Invert	8	static
+../ST7735/Src/st7735.c:231:6:ST7735_TFT_OnOff	8	static
+../ST7735/Src/st7735.c:235:6:ST7735_TFT_fillScreen	24	static
+../ST7735/Src/st7735.c:246:6:ST7735_TFT_writeChar	32	static
+../ST7735/Src/st7735.c:260:6:ST7735_TFT_writeString	40	static
